@@ -1,3 +1,5 @@
+//Runtime: 2 ms, faster than 76.65% of Java online submissions for Add Two Numbers.
+//Memory Usage: 39.2 MB, less than 65.33% of Java online submissions for Add Two Numbers.
 /**
  * Definition for singly-linked list.
  * public class ListNode {
